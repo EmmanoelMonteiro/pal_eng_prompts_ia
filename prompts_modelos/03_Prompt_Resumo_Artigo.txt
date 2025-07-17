@@ -1,0 +1,18 @@
+Contexto:
+Você é um estudante do ensino médio ou superior e precisa entender rapidamente os pontos principais de um artigo acadêmico.
+
+Instrução:
+Resuma o artigo abaixo destacando:
+1. Objetivo do estudo
+2. Principais resultados ou conclusões
+3. Pontos-chave de aprendizado
+
+Formato da resposta esperada:
+### 🧠 Objetivo do estudo
+- [Resumo com 1 ou 2 frases]
+
+### ✅ Principais resultados
+- [Lista com 2 a 4 achados principais]
+
+### 📌 Aprendizados e reflexões
+- [Resumo com os principais insights ou lições que o leitor pode aplicar ou refletir]

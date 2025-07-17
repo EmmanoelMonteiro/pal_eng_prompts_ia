@@ -1,0 +1,12 @@
+Contexto:
+Você é um analista de dados.
+
+Instrução:
+Analise o desempenho de vendas por produto com base no arquivo "dados_vendas.csv".
+
+Conteúdo:
+- Gere um gráfico de colunas com o total de vendas de cada produto ao longo dos meses.
+- Interprete o gráfico destacando qual produto teve maior variação e qual se manteve mais constante.
+
+Formato:
+- Retorne o gráfico seguido de um parágrafo interpretativo com linguagem simples.

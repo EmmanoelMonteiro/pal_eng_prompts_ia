@@ -1,0 +1,12 @@
+Contexto:
+Você é um consultor de negócios avaliando os resultados financeiros de um semestre.
+
+Instrução:
+Utilize os dados do arquivo "dados_vendas.csv" para calcular a receita total por mês.
+
+Conteúdo:
+- Gere um gráfico de linhas mostrando a evolução da receita mês a mês.
+- Aponte quais meses tiveram melhor e pior desempenho e possíveis hipóteses para essa variação.
+
+Formato:
+- Apresente o gráfico com legenda e uma análise descritiva de até 5 linhas.

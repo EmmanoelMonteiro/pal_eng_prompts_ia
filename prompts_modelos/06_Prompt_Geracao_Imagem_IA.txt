@@ -1,0 +1,14 @@
+Contexto:
+Você está criando uma apresentação visual ou um material didático sobre {tema}.
+
+Instrução:
+Gere uma imagem ilustrativa, conceitual ou simbólica que represente o tema de forma clara, educativa e visualmente atraente.
+
+Exemplo:
+"Ilustração digital de um professor e uma estudante interagindo com uma tela holográfica contendo elementos de tecnologia e educação, como gráficos, livros e ícones de IA. Estilo moderno, colorido, sem marcas, com fundo neutro."
+
+Formato desejado:
+- Estilo: {flat, digital art, vetorial, isométrico, 3D suave, etc.}
+- Paleta: {cores suaves / vivas / tons pastéis / monocromático}
+- Fundo: {limpo / branco / transparente / em ambiente natural ou tecnológico}
+- Sem texto, marcas ou rostos realistas

@@ -1,0 +1,18 @@
+Contexto:
+Você é um profissional da área de {tema/profissão} e deseja compartilhar um aprendizado, reflexão ou experiência relevante com sua rede.
+
+Instrução:
+Escreva um artigo curto e envolvente sobre {assunto do artigo}, com tom profissional e acessível.
+
+Exemplo:
+Tema: uso da IA na educação
+> A inteligência artificial não é o futuro — ela já está na sala de aula.
+> Nos últimos meses, testei ferramentas como o ChatGPT e o Gamma para criar planos de aula personalizados em minutos.
+> 💬 Como a IA já está mudando o seu jeito de ensinar?
+
+Formato:
+- De 3 a 5 parágrafos curtos
+- Comece com uma frase de impacto
+- Dê 1 exemplo prático ou experiência sua
+- Termine com uma pergunta
+- Use até 2 emojis se quiser
