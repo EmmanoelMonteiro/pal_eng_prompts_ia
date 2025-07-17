@@ -1,4 +1,6 @@
-# 🎯 Palestra: Engenharia de Prompts - O caminho para comunicação eficiente com a Inteligência Artificial Generativa
+# 👨‍🏫 Palestra
+
+## Engenharia de Prompts: O caminho para comunicação eficiente com a Inteligência Artificial Generativa
 
 Bem-vindo(a)! Este repositório reúne os **materiais da palestra "Engenharia de Prompts"**, voltada profissionais que desejam entender e aplicar **inteligência artificial generativa** no seu dia a dia.
 
@@ -14,7 +16,7 @@ Ajudar profissionais e estudantes a:
 
 ---
 
-## 👨‍🏫 Público-alvo
+## 🎯 Público-alvo
 
 - Profissionais interessados em inovação e IA Generativa
 
